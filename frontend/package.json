@@ -42,7 +42,7 @@
     "react": "^16.3.1",
     "react-bootstrap-table-next": "^0.1.7",
     "react-breadcrumbs-dynamic": "^1.0.15",
-    "react-dev-utils": "^5.0.1",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.3.1",
     "react-ga": "^2.5.3",
     "react-geolocated": "^2.4.0",
